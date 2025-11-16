@@ -13,7 +13,7 @@ from facebook import descargar_facebook
 
 load_dotenv()
 
-TOKEN= os.getenv("TOKEN") 
+TOKEN= os.getenv("7486499541:AAFWRRFsAhbXXWPnnSRK-W-8U5qm7aeFcY4") 
 bot = telebot.TeleBot(TOKEN)
 
 home = os.path.expanduser("~")
